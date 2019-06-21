@@ -61,6 +61,12 @@ public enum AnnotationStyle {
     MOSHI1,
 
     /**
+     * JSON-B
+     * @see <a href="http://json-b.net/">http://json-b.net/</a>
+     */
+    JSONB,
+    
+    /**
      * No-op style, adds no annotations at all.
      */
     NONE,
